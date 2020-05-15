@@ -1,0 +1,98 @@
+@media only screen and (max-width:991px)
+{
+	.trl01 h3
+	{
+		margin: 0 0 15px 0;
+		font-size: 23px;
+	}
+	.trl01 p
+	{
+		font-size: 14.6px;
+	}
+	.trl01 ul li,.trl01 ul li i
+	{
+		font-size: 14px;
+	}
+	.bk p
+	{
+		padding-top: 35px;
+	}
+}
+@media only screen and (max-width:768px)
+{
+	
+	.trl01 ul
+	{
+		display: none;
+	}
+	.dtl
+	{
+	  height: 170px;
+	}
+	.bk h4 
+	{
+	    background-color: #09C6AB;
+	    padding: 10px;
+	    font-weight: 800;
+	    font-size: 15px;
+	}
+	.bk p
+	{
+		padding-top: 15px;
+	}
+	.bk h3
+	{
+		font-size: 20px;
+		padding-bottom:25px;
+	}
+	.trl001 .btn 
+	{
+	    padding: 10px 30px;
+	}
+}
+@media only screen and (max-width:575px)
+{
+	.trl1
+	{
+    	padding: 20px 0 0 85px;
+	}	
+	.dtl p
+	{
+		font-size: 16px;
+	}
+	.dtl 
+	{
+    	height: 120px;
+	}
+	.trl001
+	{
+    	padding: 0px 20px 20px 20px;
+	}
+}
+@media only screen and (max-width: 480px)
+{
+	.trl1 
+	{
+    	padding: 20px 0 0 40px;
+	}
+	.dtl p
+	{
+    	font-size: 15px;
+	}
+}
+
+@media only screen and (max-width: 375px)
+{
+	.trl1 
+	{
+    	padding: 15px 0 0 30px;
+	}
+	.trl1 img
+	{
+		width: 315px;
+	}
+	.dtl p
+	{
+    	font-size: 14px;
+	}
+}
